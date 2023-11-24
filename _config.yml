@@ -51,3 +51,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  skin: classic
+  social_links:
+    twitter: terrapraxis
+    github: terrapraxis
+    linkedin: terrapraxis
+
+    #header_pages:
+    #  - about.markdown
+    #  - repositories.markdown
