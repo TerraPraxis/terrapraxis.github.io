@@ -6,4 +6,5 @@ layout: page
 ---
 
 
-{{ site.baseurl }}{% link /about.md %}
+# {{ site.baseurl }}{% link /about.md %}
+{% link /about.md %}
